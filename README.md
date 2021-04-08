@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @magnuslundin (he/him)
-- 👀 I’m interested in software development in general. Frontend development with Vue in particular.
-- 🌱 I’m currently learning about most things.
 - 📫 You can reach me on magnus.lundin (a) hey.com
